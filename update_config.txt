@@ -14,4 +14,4 @@ version_file=version_ff.txt
 current_version=1.4
 
 # Files to update (comma separated)
-files_to_update=sww_ff.png,R-Gen Firefly 1.4.exe,blank.png,describe_ff.png
+files_to_update=sww_ff.png,R-Gen Firefly 1.4.exe,blank.png,describe_ff.png,download_FF_all.png
