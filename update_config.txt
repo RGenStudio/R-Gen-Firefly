@@ -11,7 +11,7 @@ config_file_path=update_config.txt
 
 # Version
 version_file=version_ff.txt
-current_version=1.3
+current_version=1.4
 
 # Files to update (comma separated)
-files_to_update=sww_ff.png,R-Gen Firefly 1.3.exe,blank.png
+files_to_update=sww_ff.png,R-Gen Firefly 1.4.exe,blank.png,describe_ff.png
